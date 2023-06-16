@@ -23,7 +23,9 @@
     "init-msw": "msw init public/"
   },
   "dependencies": {
-    "vue": "^3.2.47"
+    "pinia": "^2.1.4",
+    "vue": "3.3.0",
+    "vue-demi": "^0.14.5"
   },
   "devDependencies": {
     "@rushstack/eslint-patch": "^1.2.0",
